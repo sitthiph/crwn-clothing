@@ -53,5 +53,4 @@ export const createUserDocumentFromAuth = async (userAuth) => {
     console.log(err.message)
   };
 }
-
 };
