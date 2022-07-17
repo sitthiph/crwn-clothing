@@ -41,11 +41,11 @@ This application (Crown Clothing) was built using React (Custom Hooks, Context),
 
 ### Homepage
 [![Crown Clothing Homepage][homepage-src]](https://62d44d9b81fa5c0660b8a7ee--remarkable-dodol-02cd2b.netlify.app/)
-### Sign-in page
+### Sign-in and Sign-up Page
 [![Crown Clothing Homepage][sign-in-src]](https://62d44d9b81fa5c0660b8a7ee--remarkable-dodol-02cd2b.netlify.app/)
-### Browse Page
+### Shop Page
 [![Crown Clothing Homepage][shop-page]](https://62d44d9b81fa5c0660b8a7ee--remarkable-dodol-02cd2b.netlify.app/)
-### Browse Page with Search(Fuse.js) being use to filter out shows.
+### Checkout Page.
 [![Crown Clothing Homepage][checkout-page]](https://62d44d9b81fa5c0660b8a7ee--remarkable-dodol-02cd2b.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -71,7 +71,7 @@ Pretty simple and strightfoward.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/sitthiph/crwn-clothing.git
    ```
 2. Install NPM packages
    ```sh
@@ -96,7 +96,7 @@ const firebaseConfig = {
 
 ## Acknowledgments
 
-- [Karl Hadwen](https://github.com/karlhadwen) - Thank you for providing a 10 hours long walkthrough of this project.
+- [Andrei Neagoie & Yihua Zhang](https://zerotomastery.io/) - Thank you for creating React course.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -118,4 +118,4 @@ const firebaseConfig = {
 [homepage-src]: md-img/homepage.jpeg
 [sign-in-src]: md-img/signin-signup.jpeg
 [shop-page]: md-img/shop-page.jpeg
-[checkout-page]: md-img/browse-search-src.jpeg
+[checkout-page]: md-img/checkout-page.jpeg
